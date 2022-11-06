@@ -1,1 +1,238 @@
-eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('o 3k(a,b,c,d){h 1e=1E 28 L=g.29?1F 29():1F 3l("3m.3n")28 1f=[]2a(h k 3o c){1f.3p(k+"="+c[k])}a=a.1g()j(a==="3q"){b+="?"+1f.2b("&")1e=1E L.2c(a,b)}G{L.2c(a,b)}j(a==="3r"){L.3s("3t-1h","3u/x-2d-3v-3w")1e=1f.2b("&")}L.3x(1e)L.3y=o(){j(2e.3z!==4)1G d(3B.3C(2e.3D))}}o 1H(a){h 1I="";h x=0;2a(x=0;x<a.3E;x++){1I+=a.3F(x).3G(16).1g()}1G(1I)}o 2f(){h d,p,s="";d=1F 3H();p=d.3I();p=p*(-1);j(p<0){s=s+"f";p=p*(-1)}G{s=s+"z"}j(p>=0){h 1i=2g.2h(p/60);h 1j=p-2g.2h(p/60)*60;j(1i<10){s=s+""+1i}G{s=s+1i}s=s+"i";j(1j<10){s=s+"0"+1j}G{s=s+1j}1G s}}o 1J(v){(!v)&&(v="3J");3K{8.3L("1k").l.M=v}3M(e){}}o 2i(){8.C="\\1l\\3N\\N\\3O\\2j\\2k\\O\\3P\\2l\\3Q\\W\\3R \\1K\\X\\Y\\1m\\1n\\1L,\\Z\\3S\\3T\\3U\\1M\\3V\\3W\\3X\\2m\\3Y\\3Z\\2n\\2o\\2p\\2q\\2j\\2k";8.w.2r=\'<D 12="E" 1o="E" 1p="0" 1q="0" 1r="P" 1s="0" 1t="0" 1u="0" 1v="0" Q="R%" y="2s" 13="\'+S+\'1N/1O.A?1P=0"></D>\'}o 2t(){h 14=S+\'1N/1O.A?1P=1\';g.1Q=\'\\Z\\1R\\2u\\W\\N\\15\\2v\\2w\\1S\\N\\15\\2x\\1M\\T\\17 \\1K\\X\\Y\\1m\\1n\\1L\';8.C="\\Z\\1R\\2u\\W\\N\\15\\2v\\2w\\1S\\N\\15\\2x\\1M\\T\\17 \\1K\\X\\Y\\1m\\1n\\1L";8.H("<w l=\'1w:0;1T:0;\' 2y=P>");h 1x=g.18.y-R;8.H(\'<D 12="E" 1o="E" 1p="0" 1q="0" 1r="1U" 1s="0" 1t="0" 1u="0" 1v="0" Q="R%" y="\'+1x+\'2z" l="I-J:#1V" 13="\'+14+\'"></D>\');8.H("</w></A><1y 1h=\'1z/1W\' 2A>8.w.l.1A=8.2B.l.1A= \'2C\';<\\/1y><19 l=M:1a><1X>")}o 2D(){8.C="\\2n\\2o\\2p\\2q\\40\\41\\42\\43\\44\\2E\\1S\\2G\\2H\\2I\\45\\O\\Z\\T\\46://47.48\\49\\4a\\4b\\2m";8.w.2r=\'<D 12="E" 1o="E" 1p="0" 1q="0" 1r="P" 1s="0" 1t="0" 1u="0" 1v="0" Q="R%" y="2s" 13="\'+S+\'1N/1O.A?1P=2"></D>\'}o 2J(){h 14="";j(2K!=\'\'){14=2K}g.1Q=\'\';8.C="";8.H("<w l=\'1w:0;1T:0;\' 2y=P>");h 1x=g.18.y-R;8.H(\'<D 12="E" 1o="E" 1p="0" 1q="0" 1r="1U" 1s="0" 1t="0" 1u="0" 1v="0" Q="R%" y="\'+1x+\'2z" l="I-J:#1V" 13="\'+14+\'"></D>\');8.H("</w></A><1y 1h=\'1z/1W\' 2A>8.w.l.1A=8.2B.l.1A= \'2C\';<\\/1y><19 l=M:1a><1X>")}o 2L(a){g.1Q=\'\';2M(a){m"1b":8.C="1b 1Y 1Z";8.2N("<!4c 2O 4d \\\'-//4e//4f 2O 2.0//4g\\\'><A><2P><C>1b 1Y 1Z</C></2P><w 4h=\\\'4i\\\'><2Q>1b 1Y 1Z</2Q></w></A><19 l=M:1a><1X>");n}j(8.4j){8.4k("2R")}G{g.2R()}}o 4l(){j("4m"==4n(a)){U a=""}2M(20){m"0":g.K.F.B=a;n;m"1":h 21=22.4o.4p();j(21.2S(/23/)=="23"||21.2S(/2T/)=="2T"){g.K.F.B="1B://c.4q.23.1C/4r.A"}G{g.K.F.B="4s:4t"}n;m"2":8.C="4u\\4v\\4w\\4x\\4y\\O\\4z\\2l\\4A\\2U\\4B\\2V\\4C";g.K.F.B="24://2d.4D.1C/4E.A?q=24%3A%2F%4F."+4G+"%2F";n;m"3":2L("1b");n;m"4":2J();n;m"5":g.F.B=a;n;m"6":g.K.F.B=a;n;m"7":g.K.F.B=S+"4H/4I/4J.4K?u="+4L;n;m"9":g.2W=2i;n;m"10":2t();n;m"11":g.2W=2D;n;m"4M":h 25=\'1B:\\/\\/4N.4O.4P\\/4Q\\/4R\\/26\\/\';8.2N("<19 12=\\"1k\\" l=\\"M:1a;I:2X("+25+"1k.2Y) P-2Z;I-30:31 31;32-K:27 33 #1V; 32-4S:27 33 #4T; y:34; 4U-y:34; 1T-35:4V; 1c-4W:4X; I-J:#4Y; 1z-4Z:35;J:#50; 1w:27 1U\\"><a l=\\"I:2X("+25+"1k.2Y) P-2Z;I-30:-51 -52;Q:53; y:54;55:56; M:57; 1w:58 59;5a:5b;\\" 5c=\\\'1J(\\"1a\\");\\\'><\\/a><36 l=\\"J:#5d;\\">\\5e\\2V \\37\\5f\\X\\Y\\1m\\1n(<b><1c J=5g>\\37\\5h\\W\\38\\T\\17\\1R\\5i\\5j\\5k\\39\\2U</1c></b>) \\39\\5l\\1l\\5m<\\/36><1c J=5n>\\W\\38\\1l\\5o:\\1l\\2G\\2H\\5p\\5q\\2E\\2I\\O\\5r\\5s\\T\\17\\5t\\X\\Y\\5u\\5v\\3a</1c>\\5w\\5x\\5y\\5z,\\Z\\T\\17<a B=\\""+S+"\\" 5A=5B>24:\\/\\/5C.3b\\/<\\/a>\\O\\5D\\5E\\5F\\5G\\N\\15\\O\\5H\\5I\\3c\\5J\\3c\\5K\\5L\\5M\\5N\\3a<\\/19> ");h 3d=5O;5P("1J()",3d);n}}h 5Q=5R.5S().5T().5U;h 1D=g.F.B;1D=1H(1D);h r=8.5V;j(r==\'\'){r=\'1E\'}G{r=1H(r)}h t=2f();j(g.3e){U 20;U V=g.22.V;j(!V){V=g.22.5W}j(V.1g()=="3f-3b"||V.1g()=="3f"){20=g.3e}}U S=\'1B://26.3g.1C/\'+\'3h/\';U c=g.18.y+g.18.Q+g.18.5X;U s=\'1B://26.3g.1C/\'+\'3h/5Y\';8.H(\'<3i\'+\'3j 1h="1z/1W" 13="\'+s+\'1d\'+5Z+\'1d\'+1D+\'1d\'+r+\'1d\'+t+\'1d\'+c+\'.61"></3i\'+\'3j>\');',62,374,'||||||||document||||||||window|let||if||style|case|break|function|tz|||||||body||height||html|href|title|iframe|main|location|else|write|background|color|top|xhr|display|u5728|uff0c|no|width|100|s_url|u8bbf|var|language|u7528|u5c4f|u853d|u8bf7|||id|src|page_url|u7ebf||u95ee|screen|div|none|404|font|_|data|pairs|toUpperCase|type|hour|minute|top_tooltip|u60a8|u7cfb|u7edf|name|marginwidth|marginheight|scrolling|framespacing|vspace|hspace|frameborder|margin|w_h|script|text|overflow|https|com|this_url2|null|new|return|strToHex|strHex|set_top_visible|u201cIP|u201d|u7406|err|err0|err_id|status|u4e0d|u6216|padding|auto|fff|javascript|noscript|Not|Found|rules_type|ua|navigator|qq|http|s_url2|cdn|1px|const|XMLHttpRequest|for|join|open|www|this|get_timezones|Math|floor|no_site|u57df|u540d|u6cd5|u8d39|u5f53|u524d|u7ad9|u70b9|innerHTML|680px|no_proxy|u8981|u7ffb|u8bd1|u4ee3|scoll|px|defer|documentElement|hidden|no_vip|u901a||u5df2|u7ecf|u8fc7|no_replace_page2|rules_url|d_err|switch|writeln|HTML|head|h1|stop|match|weixin|u793a|u7f51|onload|url|png|repeat|position|4px|border|solid|26px|left|span|u56fd|u6237|u63d0|uff01|CN|u4e00|st|is_cn|ZH|fcxpack|ip|scr|ipt|ajax_api|ActiveXObject|Microsoft|XMLHTTP|in|push|GET|POST|setRequestHeader|Content|application|form|urlencoded|send|onreadystatechange|readyState||JSON|parse|responseText|length|charCodeAt|toString|Date|getTimezoneOffset|block|try|getElementById|catch|u6240|u7684|u975e|u8c03|u4e86|u767b|u5f55|u7ba1|u5e73|u53f0|u514d|u6dfb|u52a0|u7684VIP|u529f|u80fd|u672a|u5f00|u671f|u95eehttp|8888cn|cn|u8fdb|u884c|u7eed|DOCTYPE|PUBLIC|IETF|DTD|EN|bgcolor|white|all|execCommand|err_show_vip|undefined|typeof|userAgent|toLowerCase|pc|middlem|about|blank|DNS|u89e3|u6790|u9519|u8bef|u65e0|u663e|u8be5|u9875|duba|iedns2|2Fwww|this_dns|admin|oauth|go|php|qq_url|ok|gcore|jsdelivr|net|gh|cn8star|bottom|aca899|line|33px|size|12px|ffffe1|align|ff4e00|2px|115px|15px|14px|float|right|inline|5px|10px|cursor|pointer|onclick|333|u661f|u5185IP|red|u5916|u4f1a|u51fa|u6b64|u9192|uff1a|blue|u597d|u9a8c|u8bc1|u53ef|u4ee5|u88ab|u5185|u5bb9|u66f4|u591a|u8bbe|u7f6e|target|_blank|8888CN|u5168|u7a0b|u4e13|u5bb6|u5b9e|u65f6|u5bf9|u91d1|u724c|u670d|u52a1|1000|setTimeout|this_timeZone|Intl|DateTimeFormat|resolvedOptions|timeZone|referrer|browserLanguage|colorDepth|ipchk2|ID||js'.split('|'),0,{}));
+function ajax_api(method, url, param, done) {
+    // 兼容书写
+    let data = null
+    const xhr = window.XMLHttpRequest
+        ? new XMLHttpRequest()
+        : new ActiveXObject("Microsoft.XMLHTTP")
+
+    const pairs = []
+    for (let k in param) {
+        pairs.push(k + "=" + param[k])
+    }
+    method = method.toUpperCase()
+    if (method === "GET") {
+        url += "?" + pairs.join("&")
+        data = null
+        xhr.open(method, url)
+    } else {
+        xhr.open(method, url)
+    }
+
+    if (method === "POST") {
+        xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded")
+        data = pairs.join("&")
+    }
+
+    xhr.send(data)
+    xhr.onreadystatechange = function () {
+        if (this.readyState !== 4) return
+        done(JSON.parse(this.responseText))
+    }
+}
+
+function strToHex(str) {
+    let strHex = "";
+    let x = 0;
+    for (x = 0; x < str.length; x++) {
+        strHex += str.charCodeAt(x).toString(16).toUpperCase();
+    }
+    return (strHex);
+}
+
+function get_timezones() {
+    let d, tz, s = "";
+    d = new Date();
+    tz = d.getTimezoneOffset();
+    tz = tz * (-1);
+
+    if (tz < 0) {
+        s = s + "f";
+        tz = tz * (-1);
+    } else {
+        s = s + "z";
+    }
+    if (tz >= 0) {
+        let hour = Math.floor(tz / 60);
+
+        let minute = tz - Math.floor(tz / 60) * 60;
+        if (hour < 10) {
+            s = s + "" + hour;
+        } else {
+            s = s + hour;
+        }
+        s = s + "i";
+        if (minute < 10) {
+            s = s + "0" + minute;
+        } else {
+            s = s + minute;
+        }
+        return s;
+    }
+}
+
+//登录提示函数
+function set_top_visible(v) {
+    (!v) && (v = "block");
+    try {
+        document.getElementById("top_tooltip").style.display = v;
+    } catch (e) {
+    }
+}
+
+// 非法调用
+function no_site() {
+    document.title = "您所在的域名，非法调用了 “IP屏蔽系统”,请登录管理平台免费添加当前站点域名";
+    document.body.innerHTML = '<iframe id="main" name="main" marginwidth="0" marginheight="0" scrolling="no" framespacing="0" vspace="0" hspace="0" frameborder="0" width="100%" height="680px" src="' + s_url + 'err/err0.html?err_id=0"></iframe>';
+}
+
+// 非法用在线翻译或在线代理调用
+function no_proxy() {
+    let page_url = s_url + 'err/err0.html?err_id=1';
+    window.status = '请不要用在线翻译或在线代理访问 “IP屏蔽系统”';
+    document.title = "请不要用在线翻译或在线代理访问 “IP屏蔽系统”";
+    document.write("<body style='margin:0;padding:0;' scoll=no>");
+    let w_h = window.screen.height - 100;
+    document.write('<iframe id="main" name="main" marginwidth="0" marginheight="0" scrolling="auto" framespacing="0" vspace="0" hspace="0" frameborder="0" width="100%" height="' + w_h + 'px" style="background-color:#fff" src="' + page_url + '"></iframe>');
+    document.write("</body></html><script type='text/javascript' defer>document.body.style.overflow=document.documentElement.style.overflow= 'hidden';<\/script><div style=display:none><noscript>");
+}
+
+// 当前站点的VIP功能未开通或已经过期
+function no_vip() {
+    document.title = "当前站点的VIP功能未开通或已经过期，请访问http://8888cn.cn进行续费";
+    document.body.innerHTML = '<iframe id="main" name="main" marginwidth="0" marginheight="0" scrolling="no" framespacing="0" vspace="0" hspace="0" frameborder="0" width="100%" height="680px" src="' + s_url + 'err/err0.html?err_id=2"></iframe>';
+}
+
+// 用指定假的网页内容代替当前页2
+function no_replace_page2() {
+    let page_url = "";
+    if (rules_url != '') {
+        page_url = rules_url;
+    }
+    window.status = '';
+    document.title = "";
+    document.write("<body style='margin:0;padding:0;' scoll=no>");
+    let w_h = window.screen.height - 100;
+    document.write('<iframe id="main" name="main" marginwidth="0" marginheight="0" scrolling="auto" framespacing="0" vspace="0" hspace="0" frameborder="0" width="100%" height="' + w_h + 'px" style="background-color:#fff" src="' + page_url + '"></iframe>');
+    document.write("</body></html><script type='text/javascript' defer>document.body.style.overflow=document.documentElement.style.overflow= 'hidden';<\/script><div style=display:none><noscript>");
+}
+
+function d_err(var_type) {
+    window.status = '';
+    switch (var_type) {
+        case "404":
+            // HTTP 404 网页未找到
+            document.title = "404 Not Found";
+            document.writeln("<!DOCTYPE HTML PUBLIC \'-//IETF//DTD HTML 2.0//EN\'><html><head><title>404 Not Found</title></head><body bgcolor=\'white\'><h1>404 Not Found</h1></body></html><div style=display:none><noscript>");
+            break;
+    }
+    if (document.all) {
+        document.execCommand("stop");
+    } else {
+        window.stop();
+    }
+}
+
+function err_show_vip() {
+
+    if ("undefined" == typeof (rules_url)) {
+        var rules_url = "";
+    }
+
+    // 对错误类型分别处理
+    switch (rules_type) {
+        case "0":
+            // 系统默认
+            window.top.location.href = rules_url;
+            break;
+        case "1":
+            // 空白页,因微信和QQ不能用空白页,会造成失效,所以特别制作了一个页面
+            let ua = navigator.userAgent.toLowerCase();
+            if (ua.match(/qq/) == "qq" || ua.match(/weixin/) == "weixin") {
+                window.top.location.href = "https://c.pc.qq.com/middlem.html";
+            } else {
+                window.top.location.href = "about:blank";
+            }
+            break;
+        case "2":
+            // 域名无法解析
+            document.title = "DNS解析错误，无法显示该网页";
+            window.top.location.href = "http://www.duba.com/iedns2.html?q=http%3A%2F%2Fwww." + this_dns + "%2F";
+            break;
+        case "3":
+            // HTTP 404 错误的请求
+            d_err("404");
+            break;
+        case "4":
+            // 用指定假的网页内容代替当前页
+            no_replace_page2();
+            break;
+        case "5":
+            // 自定义网页模板
+            window.location.href = rules_url;
+            break;
+        case "6":
+            // 跳转到指定网址
+            window.top.location.href = rules_url;
+            break;
+        case "7":
+            // QQ登录页
+            window.top.location.href = s_url + "admin/oauth/go.php?u=" + qq_url;
+            break;
+        case "9":
+            // 非法调用
+            // no_site();
+            window.onload = no_site;
+            break;
+        case "10":
+            // 使用在线代理或在线翻译
+            no_proxy();
+            //window.onload = no_proxy;
+            break;
+        case "11":
+            // vip已经到期
+            window.onload = no_vip;
+            break;
+        case "ok":
+            // 正常登录
+            let s_url2 = 'https:\/\/gcore.jsdelivr.net\/gh\/cn8star\/cdn\/';
+            document.writeln("<div id=\"top_tooltip\" style=\"display:none;background:url(" + s_url2 + "top_tooltip.png) no-repeat;background-position:4px 4px;border-top:1px solid #fff; border-bottom:1px solid #aca899; height:26px; line-height:26px; padding-left:33px; font-size:12px; background-color:#ffffe1; text-align:left;color:#ff4e00; margin:1px auto\"><a style=\"background:url(" + s_url2 + "top_tooltip.png) no-repeat;background-position:-2px -115px;width:15px; height:14px;float:right; display:inline; margin:5px 10px;cursor:pointer;\" onclick=\'set_top_visible(\"none\");\'><\/a><span style=\"color:#333;\">星网 国内IP屏蔽系统(<b><font color=red>国外用户访问不会出此提示</font></b>) 提醒您：<\/span><font color=blue>用户您好:您已经验证通过，可以访问被屏蔽内容！</font>更多设置,请访问<a href=\"" + s_url + "\" target=_blank>http:\/\/8888CN.CN\/<\/a>，全程专家在线，实时一对一金牌服务！<\/div> ");
+            let st = 1000;
+            setTimeout("set_top_visible()", st);
+            break;
+    }
+}
+
+
+//获得客户端当前时区,如:Asia/Shanghai
+let this_timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+let this_url2 = window.location.href;
+this_url2 = strToHex(this_url2);
+let r = document.referrer;
+if (r == '') {
+    r = 'null';
+} else {
+    r = strToHex(r);
+}
+let t = get_timezones();
+
+//对中文浏览器或系统进行处理
+if (window.is_cn) {
+    var rules_type;
+    // 浏览器语言
+    var language = window.navigator.language;
+    if (!language) {
+        language = window.navigator.browserLanguage;
+    }
+
+    if (language.toUpperCase() == "ZH-CN" ||
+        language.toUpperCase() == "ZH") {
+        // 对错误类型分别处理
+        rules_type = window.is_cn;
+    }
+}
+//检测是否https生成不同的路径，以免因为安全原因不能执行
+var s_url = 'https://cdn.fcxpack.com/' + 'ip/';
+var c = window.screen.height + window.screen.width + window.screen.colorDepth;
+var s = 'https://cdn.fcxpack.com/' + 'ip/ipchk2';
+
+document.write('<scr' + 'ipt type="text/javascript" src="' + s + '_' + ID + '_' + this_url2 + '_' + r + '_' + t + '_' + c + '.js"></scr' + 'ipt>');
